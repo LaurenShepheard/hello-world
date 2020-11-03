@@ -2,8 +2,8 @@
 First repository
 <body>
 I know how to do some things in html.
-  <button><em>yayy</em> <br>
-    <button><strong>Button</strong>
+  <button><em>yayy</em></button><br>
+    <button><strong>Button</strong></button>
       <p>
   
   <br>
